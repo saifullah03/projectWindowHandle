@@ -46,7 +46,7 @@ public class WindowHandle {
         System.out.println(ar.get(1));
 
 
-//        Thread.sleep(4000);
+        Thread.sleep(4000)
 //        driver.close();
 
     }
